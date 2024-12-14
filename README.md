@@ -7,6 +7,7 @@ Everything you need to change is in the config. Peds cannot be interacted with v
 - Supports both animations and scenarios.
 
 **Preview video:** [Click Here](https://youtu.be/q9iThh3LUUc)
+<br>
 **Documentation:** [Click Here](https://s4t4n667.gitbook.io/asgaard-developments/free-scripts/s4t4n667_pedspawner)
 <br>
 
